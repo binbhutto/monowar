@@ -512,6 +512,7 @@ img.right {
 }
 
 h3.content_separation {
+  font-size: 20px;
   padding-bottom: 5px;
   flex-grow: 1;
   margin: 30px 50px -25px 50px;
@@ -571,4 +572,11 @@ h3.content_separation {
 
 #profile-last-section {
   padding-bottom: 25px;
+}
+
+.profile_sections > ol{
+  margin-left: 30px;
+}
+.profile_sections > ol > li{
+  padding: 0 0 5px 0;
 }
