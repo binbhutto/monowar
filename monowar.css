@@ -23,7 +23,6 @@ For more information, see http://andreasviklund.com/templates/andreas08/
   color: #303030;
   box-shadow: 0 0 10px 5px #999;
   font: 14px Arial, Helvetica, Sans-Serif;
-
 }
 
 #header {
@@ -84,6 +83,7 @@ For more information, see http://andreasviklund.com/templates/andreas08/
   font: 12px/19px Arial, Helvetica, Sans-Serif;
   font-weight: bold;
 } */
+
 
 body {
   margin: 0;
@@ -172,13 +172,17 @@ img.right {
 
 .navigation li a {
   /* display: block; */
-  padding: 0 12.5px;
+  padding: 8px 12.5px;
   font-size: 0.8em;
   font-weight: normal;
   text-transform: uppercase;
   text-decoration: none;
   background-color: inherit;
   color: #ffffff;
+}
+
+.navigation > li > a {
+  height: 100%;
 }
 
 * html .navigation a {
@@ -299,9 +303,10 @@ img.right {
 /* Sidebar styles */
 #subcontent {
   float: right;
-  width: 170px;
+  width: 750px;
   padding: 20px 20px 10px 0;
   line-height: 1.4em;
+  text-align: justify;
 }
 
 #subcontent h2 {
@@ -579,4 +584,10 @@ h3.content_separation {
 }
 .profile_sections > ol > li{
   padding: 0 0 5px 0;
+}
+
+#contacts-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
