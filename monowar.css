@@ -553,3 +553,22 @@ h3.content_separation {
   align-items: center;
   flex-wrap: wrap;
 }
+
+.profile_sections > ul{
+  margin-left: 50px;
+}
+.profile_sections > ul > li{
+  padding: 0 0 5px 0;
+}
+
+#profile_experience {
+  padding-left: 50px;
+}
+
+#profile-conference-section {
+  padding-left: 50px;
+}
+
+#profile-last-section {
+  padding-bottom: 25px;
+}
