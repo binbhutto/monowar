@@ -388,9 +388,10 @@ img.right {
 
 /* Footer styles */
 #footer {
+  margin-top: 10px;
   clear: both;
   width: auto;
-  height: 100px;
+  height: 200px;
   font-size: 0.9em;
 
   /* color: #f0f0f0; */
@@ -590,4 +591,11 @@ h3.content_separation {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.quotes {
+  text-align: center;
+  margin: 20px 50px 50px 50px;
+  font-style: italic;
+  font-weight: bold;
 }
