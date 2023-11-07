@@ -548,17 +548,15 @@ h3.content_separation {
 
 #funded-by {
   height: 240px;
+  flex-direction: column;
   display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
 }
 
-#funded-by > div {
+#funded-by > div{
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
-  flex-wrap: wrap;
+  
 }
 
 .profile_sections > ul{
