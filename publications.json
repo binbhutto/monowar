@@ -1,0 +1,25 @@
+[
+    {
+        "2021": [
+            {
+                "title": "S. Banerjee, E. Elmroth, <u>M. Bhuyan</u>. <b>Fed-FiS: a Novel Information-Theoretic Federated Feature Selection for Learning Stability</b>. In <i>28th International Conference on Neural Information Processing (ICONIP)</i>, pp. 480-487, 2021, Springer.",
+                "how_to_cite": "S. Banerjee, E. Elmroth, M. Bhuyan. Fed-FiS: a Novel Information-Theoretic Federated Feature Selection for Learning Stability. In 28th International Conference on Neural Information Processing (ICONIP), pp. 480-487, 2021, Springer.",
+                "citation": "@inproceedings{banerjee2021fed,<br>  title={Fed-FiS: A novel information-theoretic federated feature selection for learning stability},<br>  author={Banerjee, Sourasekhar and Elmroth, Erik and Bhuyan, Monowar},<br>  booktitle={International Conference on Neural Information Processing},<br>  pages={480--487},<br>  year={2021},<br>  organization={Springer}<br>}"
+            }
+        ]  
+    },
+    {
+        "2020": [
+            {
+                "title":"S. Banerjee, R. Misra, M. Prasad, E. Elmorth, and <u>M. Bhuyan</u>. <b>Multi-diseases Classification from chest-X-ray: A Federated Deep Learning Approach</b>. In <i>the 33rd Australasian Joint Conference on Artificial Intelligence (AJCAI)</i>, LNAI 12576, pp. 3–15, 29 - 30 Nov, 2020, Australia.",
+                "how_to_cite": "S. Banerjee, R. Misra, M. Prasad, E. Elmorth, and M. Bhuyan. Multi-diseases Classification from chest-X-ray: A Federated Deep Learning Approach. In the 33rd Australasian Joint Conference on Artificial Intelligence (AJCAI), LNAI 12576, pp. 3–15, 29 - 30 Nov, 2020, Australia.",
+                "citation": "@inproceedings{banerjee2020multi,<br>title={Multi-diseases classification from chest-x-ray: A federated deep learning approach},<br>author={Banerjee, Sourasekhar and Misra, Rajiv and Prasad, Mukesh and Elmroth, Erik and Bhuyan, Monowar H},<br>booktitle={AI 2020: Advances in Artificial Intelligence: 33rd Australasian Joint Conference, AI 2020, Canberra, ACT, Australia, November 29--30, 2020, Proceedings 33},<br>pages={3--15},<br>year={2020},<br>organization={Springer}<br>}"
+            },
+            {
+                "title":"A. Agarwal, A. S. Chivukula, <u>M. Bhuyan</u>, T. Jan, B. Narayan, and M. Prasad. <b>Identification and Classification of Cyberbullying Posts: A Recurrent Neural Network Approach using Under-sampling and Class Weighting</b>. In <i> The 27th International Conference on Neural Information Processing (ICONIP)</i>, 18-22 November, pp. 113-120, 2020, Thailand, Springer.",
+                "how_to_cite": "A. Agarwal, A. S. Chivukula, M. Bhuyan, T. Jan, B. Narayan, and M. Prasad. Identification and Classification of Cyberbullying Posts: A Recurrent Neural Network Approach using Under-sampling and Class Weighting. In The 27th International Conference on Neural Information Processing (ICONIP), 18-22 November, pp. 113-120, 2020, Thailand, Springer.",
+                "citation": "@inproceedings{agarwal2020identification,<br>  title={Identification and classification of cyberbullying posts: A recurrent neural network approach using under-sampling and class weighting},<br>  author={Agarwal, Ayush and Chivukula, Aneesh Sreevallabh and Bhuyan, Monowar H and Jan, Tony and Narayan, Bhuva and Prasad, Mukesh},<br>  booktitle={Neural Information Processing: 27th International Conference, ICONIP 2020, Bangkok, Thailand, November 18--22, 2020, Proceedings, Part V 27},<br>  pages={113--120},<br>  year={2020},<br>  organization={Springer}<br>}"
+            }
+        ]
+    }
+]
