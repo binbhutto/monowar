@@ -21,5 +21,14 @@
                 "citation": "@inproceedings{agarwal2020identification,<br>  title={Identification and classification of cyberbullying posts: A recurrent neural network approach using under-sampling and class weighting},<br>  author={Agarwal, Ayush and Chivukula, Aneesh Sreevallabh and Bhuyan, Monowar H and Jan, Tony and Narayan, Bhuva and Prasad, Mukesh},<br>  booktitle={Neural Information Processing: 27th International Conference, ICONIP 2020, Bangkok, Thailand, November 18--22, 2020, Proceedings, Part V 27},<br>  pages={113--120},<br>  year={2020},<br>  organization={Springer}<br>}"
             }
         ]
+    },
+    {
+        "2013": [
+            {
+                "title":"N. Hoque, <u>M. Bhuyan</u>, R. C. Baishya, D. K. Bhattacharyya, and J. K. Kalita. <b>A Review on Network Security Tools and Systems</b>. In <i>The Network and Information Security: Issues, Challenges and Research Trends</i>, ISBN: 978-81-8487-314-6, pp. 36–45, 2013, Narosa Publishing House, India.",
+                "how_to_cite":"N. Hoque, M. Bhuyan, R. C. Baishya, D. K. Bhattacharyya, and J. K. Kalita. A Review on Network Security Tools and Systems. In The Network and Information Security: Issues, Challenges and Research Trends, ISBN: 978-81-8487-314-6, pp. 36–45, 2013, Narosa Publishing House, India.",
+                "citation":"@INBOOK{BhuyanBC01,<br>AUTHOR = {Hoque, N and Bhuyan, M H and Baishya, R C and Bhattacharyya, D K and Kalita, J K},<br>editor = {N. Sarma and D. K. Bhattacharyya},<br>TITLE = {{Network and Information Security: Issues, Challenges and Research Trends}},<br>CHAPTER = {{A Review on Network Security Tools and Systems}},<br>pages = {36--45},<br>PUBLISHER = {Narosa Publishing House, India},<br>YEAR = {2013},<br>ISBN = {978-81-8487-314-6},<br>}"
+            }
+        ]
     }
 ]
