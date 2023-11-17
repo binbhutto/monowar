@@ -23,6 +23,16 @@
         ]
     },
     {
+        "2015": [
+            {
+                "title":"<u>M. Bhuyan</u>, D. K. Bhattacharyya, and J. K. Kalita. <b>An Empirical Evaluation of Information Metrics for Low-rate and High-rate DDoS Attack Detection</b>. In <i>Pattern Recognition Letters</i>, vol. 51, pp. 1-7, DOI: 10.1016/j.patrec.2014.07.019, 2015, Elsevier.",
+                "how_to_cite":"N. Hoque, M. Bhuyan, R. C. Baishya, D. K. Bhattacharyya, and J. K. Kalita. Network Attacks: Taxonomy, Tools and Systems. In Journal of Network and Computer Applications, vol. 40, pp. 307-324, DOI: 10.1016/j.jnca.2013.08.001, April 2014, Elsevier.",
+                "citation":"@ARTICLE{BhuyanJ11,<br>AUTHOR = {Bhuyan, M H and Bhattacharyya, D K and Kalita, J K},<br>TITLE = {{An Empirical Evaluation of Information Metrics for Low-rate and High-rate DDoS Attack Detection}},<br>JOURNAL = {Pattern Recognition Letters},<br>YEAR = {2015},<br>volume = {51},<br>pages = {1--7},<br>DOI = {10.1016/j.patrec.2014.07.019},<br>Publisher = {Elsevier}<br>}"
+            }
+        ]
+
+    },
+    {
         "2013": [
             {
                 "title": "N. Hoque, <u>M. Bhuyan</u>, R. C. Baishya, D. K. Bhattacharyya, and J. K. Kalita. <b>A Review on Network Security Tools and Systems</b>. In <i>The Network and Information Security: Issues, Challenges and Research Trends</i>, ISBN: 978-81-8487-314-6, pp. 36–45, 2013, Narosa Publishing House, India.",
@@ -50,7 +60,7 @@
             },
             {
                 "title": "<u>M. Bhuyan</u>, D. K. Bhattacharyya, and J. K. Kalita. <b>An Effective Unsupervised Network Anomaly Detection Method</b> In <i>the ACM International Conference on Advances in Computing, Communications and Informatics (ICACCI)</i>, August 3-5, pp. 533-539, 2012, Chennai, India. (Best Paper Award)",
-                "how_to_cite": "M. Bhuyan, D. K. Bhattacharyya, and J. K. Kalita. An Effective Unsupervised Network Anomaly Detection Method In the ACM International Conference on Advances in Computing, Communications and Informatics (ICACCI), August 3-5, pp. 533-539, 2012, Chennai, India. (Best Paper Award)",
+                "how_to_cite": "M. Bhuyan, D. K. Bhattacharyya, and J. K. Kalita. An Effective Unsupervised Network Anomaly Detection Method In the ACM International Conference on Advances in Computing, Communications and Informatics (ICACCI), August 3-5, pp. 533-539, 2012, Chennai, India.",
                 "citation": "@INPROCEEDINGS{Bhuyan12IC03,<br>AUTHOR = {Bhuyan, M H and Bhattacharyya, D K and Kalita, J K},<br>TITLE = {{An Effective Unsupervised Network Anomaly Detection Method}},<br>BOOKTITLE = {{Proceedings of the ACM International Conference on Advances in Computing, Communications and Informatics}},<br>YEAR = {2012},<br>pages = {533--539},<br>address = {Chennai, India},<br>month = {August 3-5},<br>publisher = {ACM},<br>}"
             }
         ]

@@ -21,7 +21,7 @@ fetch('publication_database/conferences.json')
                     const listItem = document.createElement('li');
                     listItem.classList.add('publication-item');
                     const bib = document.createElement("a");
-                    bib.textContent = " .bib";
+                    bib.textContent = " [Citation]";
                     // const publication_title = document.createElement()
                     // listItem.textContent = publication.title;
                     listItem.innerHTML = publication.title;
@@ -79,7 +79,7 @@ fetch('publication_database/books.json')
                 const listItem = document.createElement('li');
                 listItem.classList.add('publication-item');
                 const bib = document.createElement("a");
-                bib.textContent = " .bib";
+                bib.textContent = " [Citation]";
                 // const publication_title = document.createElement()
                 // listItem.textContent = publication.title;
                 listItem.innerHTML = publication.title;
@@ -134,7 +134,7 @@ fetch('publication_database/phd_thesis.json')
                 const listItem = document.createElement('div');
                 listItem.classList.add('publication-item');
                 const bib = document.createElement("a");
-                bib.textContent = " .bib";
+                bib.textContent = " [Citation]";
                 // const publication_title = document.createElement()
                 // listItem.textContent = publication.title;
                 listItem.innerHTML = publication.title;
@@ -189,7 +189,7 @@ fetch('publication_database/master_thesis.json')
                 const listItem = document.createElement('div');
                 listItem.classList.add('publication-item');
                 const bib = document.createElement("a");
-                bib.textContent = " .bib";
+                bib.textContent = " [Citation]";
                 // const publication_title = document.createElement()
                 // listItem.textContent = publication.title;
                 listItem.innerHTML = publication.title;
@@ -244,7 +244,7 @@ fetch('publication_database/undergrade_project.json')
             const listItem = document.createElement('div');
             listItem.classList.add('publication-item');
             const bib = document.createElement("a");
-            bib.textContent = " .bib";
+            bib.textContent = " [Citation]";
             // const publication_title = document.createElement()
             // listItem.textContent = publication.title;
             listItem.innerHTML = publication.title;
@@ -304,7 +304,7 @@ fetch('publication_database/tech_reports.json')
                     const listItem = document.createElement('li');
                     listItem.classList.add('publication-item');
                     const bib = document.createElement("a");
-                    bib.textContent = " .bib";
+                    bib.textContent = " [Citation]";
                     // const publication_title = document.createElement()
                     // listItem.textContent = publication.title;
                     listItem.innerHTML = publication.title;
