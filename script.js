@@ -26,6 +26,10 @@ fetch('publication_database/conferences.json')
                     // listItem.textContent = publication.title;
                     listItem.innerHTML = publication.title;
                     listItem.appendChild(bib);
+                    const separation1 = document.createElement("br")
+                    listItem.appendChild(separation1)
+                    const separation2 = document.createElement("br")
+                    listItem.appendChild(separation2)
 
                     // Add a click event to each list item to open the modal with details
                     bib.addEventListener('click', () => {
@@ -41,7 +45,6 @@ fetch('publication_database/conferences.json')
                 }
                 const separation = document.createElement("br")
                 publicationList.appendChild(separation)
-                // console.log('\n'); // Add a line break between years
             }
         }
 
@@ -73,31 +76,31 @@ fetch('publication_database/books.json')
         // Loop through the publication data and create list items
         data.forEach((publication, index) => {
 
-                // console.log(`Year: ${year}`);
-                // console.log(`Title: ${publication.title}`);
-                // console.log(`Citation: ${publication.citation}`);
-                const listItem = document.createElement('li');
-                listItem.classList.add('publication-item');
-                const bib = document.createElement("a");
-                bib.textContent = " [Citation]";
-                // const publication_title = document.createElement()
-                // listItem.textContent = publication.title;
-                listItem.innerHTML = publication.title;
-                listItem.appendChild(bib);
+            // console.log(`Year: ${year}`);
+            // console.log(`Title: ${publication.title}`);
+            // console.log(`Citation: ${publication.citation}`);
+            const listItem = document.createElement('li');
+            listItem.classList.add('publication-item');
+            const bib = document.createElement("a");
+            bib.textContent = " [Citation]";
+            // const publication_title = document.createElement()
+            // listItem.textContent = publication.title;
+            listItem.innerHTML = publication.title;
+            listItem.appendChild(bib);
 
-                // Add a click event to each list item to open the modal with details
-                bib.addEventListener('click', () => {
-                    const detailsHTML = `
+            // Add a click event to each list item to open the modal with details
+            bib.addEventListener('click', () => {
+                const detailsHTML = `
                                 <br> <div> <b>How to cite</b>: <br> ${publication.how_to_cite}</div> <br>
                                 <div> <b>BibTeX</b>: <br> ${publication.citation}</div>
                             `;
-                    modalContent.innerHTML = detailsHTML;
-                    modal.style.display = 'block';
-                });
+                modalContent.innerHTML = detailsHTML;
+                modal.style.display = 'block';
+            });
 
-                publicationList.appendChild(listItem);
+            publicationList.appendChild(listItem);
 
-                // console.log('\n'); // Add a line break between years
+            // console.log('\n'); // Add a line break between years
         });
 
         // Add an event listener to the close button to hide the modal
@@ -128,31 +131,31 @@ fetch('publication_database/phd_thesis.json')
         // Loop through the publication data and create list items
         data.forEach((publication, index) => {
 
-                // console.log(`Year: ${year}`);
-                // console.log(`Title: ${publication.title}`);
-                // console.log(`Citation: ${publication.citation}`);
-                const listItem = document.createElement('div');
-                listItem.classList.add('publication-item');
-                const bib = document.createElement("a");
-                bib.textContent = " [Citation]";
-                // const publication_title = document.createElement()
-                // listItem.textContent = publication.title;
-                listItem.innerHTML = publication.title;
-                listItem.appendChild(bib);
+            // console.log(`Year: ${year}`);
+            // console.log(`Title: ${publication.title}`);
+            // console.log(`Citation: ${publication.citation}`);
+            const listItem = document.createElement('div');
+            listItem.classList.add('publication-item');
+            const bib = document.createElement("a");
+            bib.textContent = " [Citation]";
+            // const publication_title = document.createElement()
+            // listItem.textContent = publication.title;
+            listItem.innerHTML = publication.title;
+            listItem.appendChild(bib);
 
-                // Add a click event to each list item to open the modal with details
-                bib.addEventListener('click', () => {
-                    const detailsHTML = `
+            // Add a click event to each list item to open the modal with details
+            bib.addEventListener('click', () => {
+                const detailsHTML = `
                                 <br> <div> <b>How to cite</b>: <br> ${publication.how_to_cite}</div> <br>
                                 <div> <b>BibTeX</b>: <br> ${publication.citation}</div>
                             `;
-                    modalContent.innerHTML = detailsHTML;
-                    modal.style.display = 'block';
-                });
+                modalContent.innerHTML = detailsHTML;
+                modal.style.display = 'block';
+            });
 
-                publicationList.appendChild(listItem);
+            publicationList.appendChild(listItem);
 
-                // console.log('\n'); // Add a line break between years
+            // console.log('\n'); // Add a line break between years
         });
 
         // Add an event listener to the close button to hide the modal
@@ -183,31 +186,31 @@ fetch('publication_database/master_thesis.json')
         // Loop through the publication data and create list items
         data.forEach((publication, index) => {
 
-                // console.log(`Year: ${year}`);
-                // console.log(`Title: ${publication.title}`);
-                // console.log(`Citation: ${publication.citation}`);
-                const listItem = document.createElement('div');
-                listItem.classList.add('publication-item');
-                const bib = document.createElement("a");
-                bib.textContent = " [Citation]";
-                // const publication_title = document.createElement()
-                // listItem.textContent = publication.title;
-                listItem.innerHTML = publication.title;
-                listItem.appendChild(bib);
+            // console.log(`Year: ${year}`);
+            // console.log(`Title: ${publication.title}`);
+            // console.log(`Citation: ${publication.citation}`);
+            const listItem = document.createElement('div');
+            listItem.classList.add('publication-item');
+            const bib = document.createElement("a");
+            bib.textContent = " [Citation]";
+            // const publication_title = document.createElement()
+            // listItem.textContent = publication.title;
+            listItem.innerHTML = publication.title;
+            listItem.appendChild(bib);
 
-                // Add a click event to each list item to open the modal with details
-                bib.addEventListener('click', () => {
-                    const detailsHTML = `
+            // Add a click event to each list item to open the modal with details
+            bib.addEventListener('click', () => {
+                const detailsHTML = `
                                 <br> <div> <b>How to cite</b>: <br> ${publication.how_to_cite}</div> <br>
                                 <div> <b>BibTeX</b>: <br> ${publication.citation}</div>
                             `;
-                    modalContent.innerHTML = detailsHTML;
-                    modal.style.display = 'block';
-                });
+                modalContent.innerHTML = detailsHTML;
+                modal.style.display = 'block';
+            });
 
-                publicationList.appendChild(listItem);
+            publicationList.appendChild(listItem);
 
-                // console.log('\n'); // Add a line break between years
+            // console.log('\n'); // Add a line break between years
         });
 
         // Add an event listener to the close button to hide the modal
@@ -228,15 +231,15 @@ fetch('publication_database/master_thesis.json')
 
 // Load data regarding undergrad
 fetch('publication_database/undergrade_project.json')
-.then(response => response.json())
-.then(data => {
-    const publicationList = document.getElementById('publication-ug');
-    const modal = document.getElementById('publication-modal');
-    const modalContent = document.getElementById('modal-content');
-    const closeModalButton = document.getElementById('close-modal-button');
+    .then(response => response.json())
+    .then(data => {
+        const publicationList = document.getElementById('publication-ug');
+        const modal = document.getElementById('publication-modal');
+        const modalContent = document.getElementById('modal-content');
+        const closeModalButton = document.getElementById('close-modal-button');
 
-    // Loop through the publication data and create list items
-    data.forEach((publication, index) => {
+        // Loop through the publication data and create list items
+        data.forEach((publication, index) => {
 
             // console.log(`Year: ${year}`);
             // console.log(`Title: ${publication.title}`);
@@ -263,23 +266,23 @@ fetch('publication_database/undergrade_project.json')
             publicationList.appendChild(listItem);
 
             // console.log('\n'); // Add a line break between years
-    });
+        });
 
-    // Add an event listener to the close button to hide the modal
-    closeModalButton.addEventListener('click', () => {
-        modal.style.display = 'none';
-    });
-
-    // Close the modal if the user clicks outside of it
-    window.addEventListener('click', (event) => {
-        if (event.target === modal) {
+        // Add an event listener to the close button to hide the modal
+        closeModalButton.addEventListener('click', () => {
             modal.style.display = 'none';
-        }
+        });
+
+        // Close the modal if the user clicks outside of it
+        window.addEventListener('click', (event) => {
+            if (event.target === modal) {
+                modal.style.display = 'none';
+            }
+        });
+    })
+    .catch(error => {
+        console.error('Error loading JSON data:', error);
     });
-})
-.catch(error => {
-    console.error('Error loading JSON data:', error);
-});
 
 // Load the JSON data for techreports
 fetch('publication_database/tech_reports.json')

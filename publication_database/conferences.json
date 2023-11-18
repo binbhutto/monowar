@@ -1,12 +1,145 @@
 [
     {
+        "2023": [
+            {
+                "title": "T. Sundqvist, <u>M. Bhuyan</u>, E. Elmroth. <b>Robust procedural learning for anomaly detection and observability in 5G RAN</b>. In <i> IEEE Trans. on Network and Service Management (TNSM)</i> <b>[accepted]</b>.",
+                "how_to_cite": "",
+                "citation": ""
+            },
+            {
+                "title": "J. Forough, <u>M. Bhuyan</u>, and E. Elmroth. <b>Unified Identification of Anomalies on the Edge: A Hybrid Sequential PGM Approach</b>. In <i> the 22nd IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom)</i>, Nov 1 - 3, 2023, Exeter, UK <b>[accepted]</b>.",
+                "how_to_cite": "",
+                "citation": ""
+            },
+            {
+                "title": "R Araki, K S Sahoo, Y Taenaka, Y Kadobayashi, E Elmroth, and <u>M. Bhuyan</u>. <b>Detecting DDoS Attacks on the Network Edge: An Information-Theoretic Correlation Analysis</b>. In <i> the 22nd IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom)</i>, Nov 1 - 3, 2023, Exeter, UK <b>[accepted]</b>.",
+                "how_to_cite": "",
+                "citation": ""
+            },
+            {
+                "title": "J. Forough, <u>M. Bhuyan</u>, and E. Elmroth. <b>Anomaly Detection and Resolution on the Edge: Solutions and Future Directions</b>. In <i> the IEEE International Congress on Intelligent and Service-Oriented Systems Engineering (IEEE CISOSE)</i>, July 17 - 20, 2023, Athens, Greece <b>[accepted]</b>.",
+                "how_to_cite": "",
+                "citation": ""
+            },
+            {
+                "title": "P Townend, A Marti, N Matskanis, I d l Iglesia, M Mancini, T Timoudas, <u>M. Bhuyan</u>, S Dupont, P Massonet, M G Hierro, I Valdés, M Abdou, I Llorente, R Montero, J Kristians- son, D Olsson, E Elmroth, P-O Östberg, A Lalaguna, D Bocheński, F Renzi, K Swat and T Hallmann. <b>COGNIT: Challenges and Vision for a Serverless and Multi-Provider Cognitive Cloud-Edge Continuum</b>. In <i> the IEEE International Conference on Edge Computing and Communications (IEEE EDGE)</i>, July 2-8, Chicago, Illinois, USA <b>[accepted]</b>.",
+                "how_to_cite": "",
+                "citation": ""
+            },
+            {
+                "title": "A Das, A Ajay, S Saha <u>M. Bhuyan</u>. <b>Few-shot Anomaly Detection in Text with Deviation Learning</b>. In <i> the 30th International Conference on Neural Information Processing (ICONIP)</i>, Nov 20-23, 2023 Changsha, China <b>[accepted]</b>.",
+                "how_to_cite": "",
+                "citation": ""
+            },
+            {
+                "title": " G Kumar, K S Sahoo, and <u>M. Bhuyan</u>. <b>Towards a Workload Mapping Model for Tuning Backing Services in Cloud Systems</b>. In <i>the 34th International Conference on Database and Expert Systems Applications (DEXA)</i> Panang, Malaysia, 28-30 August 2023, Lecture Notes in Computer Science, vol 14146, Springer.",
+                "how_to_cite": "G Kumar, K S Sahoo, and M. Bhuyan. Towards a Workload Mapping Model for Tuning Backing Services in Cloud Systems. In the 34th International Conference on Database and Expert Systems Applications (DEXA) Panang, Malaysia, 28-30 August 2023, Lecture Notes in Computer Science, vol 14146, Springer.",
+                "citation": "@inproceedings{kumar2023towards,<br>  title={Towards a Workload Mapping Model for Tuning Backing Services in Cloud Systems},<br>  author={Kumar, Gaurav and Sahoo, Kshira Sagar and Bhuyan, Monowar},<br>  booktitle={International Conference on Database and Expert Systems Applications},<br>  pages={266--280},<br>  year={2023},<br>  organization={Springer}<br>}"
+            },
+            {
+                "title": "T. Sundqvist, <u>M. Bhuyan</u> and E. Elmroth. <b>Bottleneck identification and failure prevention with procedural learning in 5G RAN</b>. In <i> the 23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing</i>, Bangalore, India, 2023, pp. 426-436, doi: 10.1109/CCGrid57682.2023.00047.",
+                "how_to_cite": "T. Sundqvist, M. Bhuyan and E. Elmroth. Bottleneck identification and failure prevention with procedural learning in 5G RAN. In the 23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, Bangalore, India, 2023, pp. 426-436, doi: 10.1109/CCGrid57682.2023.00047.",
+                "citation": "@inproceedings{sundqvist2023bottleneck,<br>  title={Bottleneck identification and failure prevention with procedural learning in 5G RAN},<br>  author={Sundqvist, Tobias and Bhuyan, Monowar and Elmroth, Erik},<br>  booktitle={2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing (CCGrid)},<br>  pages={426--436},<br>  year={2023},<br>  organization={IEEE}<br>}<br>"
+            },
+            {
+                "title": "S Banerjee, Y S Patel, P Kumar, <u>M. Bhuyan</u>. <b>Towards Post-disaster Damage Assessment using Deep Transfer Learning and GAN-based Data Augmentation</b>. In <i>24th International Conference on Distributed Computing and Networking</i>, pp. 372-377, 2023, doi: 10.1145/3571306.3571438.",
+                "how_to_cite": "S Banerjee, Y S Patel, P Kumar, M. Bhuyan. Towards Post-disaster Damage Assessment using Deep Transfer Learning and GAN-based Data Augmentation. In 24th International Conference on Distributed Computing and Networking, pp. 372-377, 2023, doi: 10.1145/3571306.3571438.",
+                "citation": "@inproceedings{banerjee2023towards,<br>  title={Towards Post-disaster Damage Assessment using Deep Transfer Learning and GAN-based Data Augmentation},<br>  author={Banerjee, Sourasekhar and Patel, Yashwant Singh and Kumar, Pushkar and Bhuyan, Monowar},<br>  booktitle={Proceedings of the 24th International Conference on Distributed Computing and Networking},<br>  pages={372--377},<br>  year={2023}<br>}<br>"
+            }
+        ]
+    },
+    {
+        "2022": [
+            {
+                "title": "S. Banerjee, A. Yurtsever, <u>M. Bhuyan</u>. <a href=\"https://openreview.net/forum?id=4ZkflzGLQ_N\" target=\"_blank\"> <b>Personalized Multi-tier Federated Learning</b></a>. In <i> Workshop on Federated Learning: Recent Advances and New Challenges (in Conjunction with NeurIPS 2022)</i>, 2022. ",
+                "how_to_cite": "S. Banerjee, A. Yurtsever, M. Bhuyan. Personalized Multi-tier Federated Learning. In Workshop on Federated Learning: Recent Advances and New Challenges (in Conjunction with NeurIPS 2022), 2022.",
+                "citation": "@inproceedings{banerjee2022personalized,<br>  title={Personalized Multi-tier Federated Learning},<br>  author={Banerjee, Sourasekhar and Yurtsever, Alp and Bhuyan, Monowar H},<br>  booktitle={Workshop on Federated Learning: Recent Advances and New Challenges (in Conjunction with NeurIPS 2022)},<br>  year={2022}<br>}<br>"
+            },
+            {
+                "title": "P K Deka, Y Verma, A B Bhutto, E Elmroth, <u>M. Bhuyan</u>. <b>Semi-supervised Range-based Anomaly Detection for Cloud Systems</b>. In <i>IEEE Trans. on Network and Service Management (TNSM)</i>, 2022, doi: 10.1109/TNSM.2022.3225753.",
+                "how_to_cite": "P K Deka, Y Verma, A B Bhutto, E Elmroth, M. Bhuyan. Semi-supervised Range-based Anomaly Detection for Cloud Systems. In IEEE Trans. on Network and Service Management (TNSM), 2022, doi: 10.1109/TNSM.2022.3225753.",
+                "citation": "@article{deka2022semi,<br>  title={Semi-supervised range-based anomaly detection for cloud systems},<br>  author={Deka, Pratyush Kr and Verma, Yash and Bhutto, Adil Bin and Elmroth, Erik and Bhuyan, Monowar},<br>  journal={IEEE Transactions on Network and Service Management},<br>  year={2022},<br>  publisher={IEEE}<br>}<br>"
+            },
+            {
+                "title": "<u>M. Bhuyan</u> and J. C. Nieves. <b>Argumentation-Based Adversarial Regression with Multiple Learners</b>. In <i> The 34th IEEE International Conference on Tools with Artificial Intelligence (ICTAI) </i>, October 31-November 2, Macao, China, 2022, pp. 96-104, doi: 10.1109/ICTAI56018.2022.00023. ",
+                "how_to_cite": "M. Bhuyan and J. C. Nieves. Argumentation-Based Adversarial Regression with Multiple Learners. In The 34th IEEE International Conference on Tools with Artificial Intelligence (ICTAI) , October 31-November 2, Macao, China, 2022, pp. 96-104, doi: 10.1109/ICTAI56018.2022.00023.",
+                "citation": "@inproceedings{bhuyan2022argumentation,<br>  title={Argumentation-Based Adversarial Regression with Multiple Learners},<br>  author={Bhuyan, Monowar and Nieves, Juan Carlos},<br>  booktitle={2022 IEEE 34th International Conference on Tools with Artificial Intelligence (ICTAI)},<br>  pages={96--104},<br>  year={2022},<br>  organization={IEEE}<br>}<br>"
+            },
+            {
+                "title": "A B Bhutto, X-S Vu, E Elmroth, W P Tay, <u>M. Bhuyan</u>. <b>Reinforced Transformer Learning for VSI-DDoS Detection in Edge Clouds </b>. In <i>IEEE Access </i>, vol. 10, pp. 94677-94690, 2022, doi: 10.1109/ACCESS.2022.3204812.",
+                "how_to_cite": "A B Bhutto, X-S Vu, E Elmroth, W P Tay, M. Bhuyan. Reinforced Transformer Learning for VSI-DDoS Detection in Edge Clouds . In IEEE Access , vol. 10, pp. 94677-94690, 2022, doi: 10.1109/ACCESS.2022.3204812.",
+                "citation": "@article{bhutto2022reinforced,<br>  title={Reinforced Transformer Learning for VSI-DDoS Detection in Edge Clouds},<br>  author={Bhutto, Adil Bin and Vu, Xuan Son and Elmroth, Erik and Tay, Wee Peng and Bhuyan, Monowar},<br>  journal={IEEE Access},<br>  volume={10},<br>  pages={94677--94690},<br>  year={2022},<br>  publisher={IEEE}<br>}<br>"
+            },
+            {
+                "title": "X-S Vu, M Ma, <u>M. Bhuyan</u>. <b>MetaVSID: A Robust Meta-Reinforced Learning Approach for VSI-DDoS Detection on the Edge</b>. In <i>IEEE Trans. on Network and Service Management (TNSM) </i>, 2022, doi: 10.1109/TNSM.2022.3200924.",
+                "how_to_cite": "X-S Vu, M Ma, M. Bhuyan. MetaVSID: A Robust Meta-Reinforced Learning Approach for VSI-DDoS Detection on the Edge. In IEEE Trans. on Network and Service Management (TNSM) , 2022, doi: 10.1109/TNSM.2022.3200924.",
+                "citation": "@article{vu2022metavsid,<br>  title={MetaVSID: A Robust Meta-Reinforced Learning Approach for VSI-DDoS Detection on the Edge},<br>  author={Vu, Xuan-Son and Ma, Maode and Bhuyan, Monowar},<br>  journal={IEEE Transactions on Network and Service Management},<br>  year={2022},<br>  publisher={IEEE}<br>}<br>"
+            },
+            {
+                "title": "N Y R Douha, <u>M. Bhuyan</u>, S. Kashihara, D. Fall, Y. Taenaka, Y. Kadobayashi. <b>A Survey on Blockchain, SDN and NFV for the Smart-Home Security</b>. In <i>Internet of Things (IoT) </i>, vol. 20, pp. 100588, doi: 10.1016/j.iot.2022.100588, Elsevier, 2022.",
+                "how_to_cite": "N Y R Douha, M. Bhuyan, S. Kashihara, D. Fall, Y. Taenaka, Y. Kadobayashi. A Survey on Blockchain, SDN and NFV for the Smart-Home Security. In Internet of Things (IoT) , vol. 20, pp. 100588, doi: 10.1016/j.iot.2022.100588, Elsevier, 2022.",
+                "citation": "@article{bhuyan2022survey,<br>  title={A survey on blockchain, SDN and NFV for the smart-home security},<br>  author={Bhuyan, Monowar and Kashihara, Shigeru and Fall, Doudou and Taenaka, Yuzo and Kadobayashi, Youki and others},<br>  journal={Internet of Things},<br>  pages={100588},<br>  year={2022},<br>  publisher={Elsevier}<br>}<br>"
+            },
+            {
+                "title": "J. Forough, <u>M. Bhuyan</u>, E. Elmroth. <b>DELA: A Deep Ensemble Learning Approach for Cross-layer VSI-DDoS Detection on the Edge</b>. In <i>42nd IEEE International Conference on Distributed Computing Systems (ICDCS)</i>, July 10-13, Bologna, Italy, 2022, pp. 1155-1165, doi: 10.1109/ICDCS54860.2022.00114.",
+                "how_to_cite": "J. Forough, M. Bhuyan, E. Elmroth. DELA: A Deep Ensemble Learning Approach for Cross-layer VSI-DDoS Detection on the Edge. In 42nd IEEE International Conference on Distributed Computing Systems (ICDCS), July 10-13, Bologna, Italy, 2022, pp. 1155-1165, doi: 10.1109/ICDCS54860.2022.00114.",
+                "citation": "@inproceedings{forough2022dela,<br>  title={DELA: A Deep Ensemble Learning Approach for Cross-layer VSI-DDoS Detection on the Edge},<br>  author={Forough, Javad and Bhuyan, Monowar and Elmroth, Erik},<br>  booktitle={2022 IEEE 42nd International Conference on Distributed Computing Systems (ICDCS)},<br>  pages={1155--1165},<br>  year={2022},<br>  organization={IEEE}<br>}<br>"
+            },
+            {
+                "title": "S. Banerjee, X-S Vu, <u>M. Bhuyan</u>. <b>Optimized and Adaptive Federated Learning for Straggler-Resilient Device Selection</b>. In <i>International Joint Conference on Neural Networks (IJCNN)</i>, July 18-23, Paduva, Italy, 2022, pp. 1-9, doi: 10.1109/IJCNN55064.2022.9892777.",
+                "how_to_cite": "S. Banerjee, X-S Vu, M. Bhuyan. Optimized and Adaptive Federated Learning for Straggler-Resilient Device Selection. In International Joint Conference on Neural Networks (IJCNN), July 18-23, Paduva, Italy, 2022, pp. 1-9, doi: 10.1109/IJCNN55064.2022.9892777.",
+                "citation": "@inproceedings{banerjee2022optimized,<br>  title={Optimized and Adaptive Federated Learning for Straggler-Resilient Device Selection},<br>  author={Banerjee, Sourasekhar and Vu, Xuan-Son and Bhuyan, Monowar},<br>  booktitle={2022 International Joint Conference on Neural Networks (IJCNN)},<br>  pages={1--9},<br>  year={2022},<br>  organization={IEEE}<br>}<br>"
+            },
+            {
+                "title": "W. Tärneberg, E. Fitzgerald, <u>M. Bhuyan</u>, P. Townend, K-E Årzén, P-O Östberg, E Elmroth, J Eker, F Tufvesson, M. Kihl. <b>The 6G Computing Continuum (6GCC): Meeting the 6G computing challenges</b>. In <i>1st International Conference on 6G Networking (6GNet)</i>, pp. 1-5, 2022, doi: 10.1109/6GNet54646.2022.9830459.",
+                "how_to_cite": "W. Tärneberg, E. Fitzgerald, M. Bhuyan, P. Townend, K-E Årzén, P-O Östberg, E Elmroth, J Eker, F Tufvesson, M. Kihl. The 6G Computing Continuum (6GCC): Meeting the 6G computing challenges. In 1st International Conference on 6G Networking (6GNet), pp. 1-5, 2022, doi: 10.1109/6GNet54646.2022.9830459.",
+                "citation": "@inproceedings{tarneberg20226g,<br>  title={The 6G Computing Continuum (6GCC): Meeting the 6G computing challenges},<br>  author={T{\\\"a}rneberg, William and Fitzgerald, Emma and Bhuyan, Monowar and Townend, Paul and {\\AA}rz{\\'e}n, Karl-Erik and {\\\"O}stberg, Per-Olov and Elmroth, Erik and Eker, Johan and Tufvesson, Fredrik and Kihl, Maria},<br>  booktitle={2022 1st International Conference on 6G Networking (6GNet)},<br>  pages={1--5},<br>  year={2022},<br>  organization={IEEE}<br>}<br>"
+            },
+            {
+                "title": "T. Sundqvist, <u>M. Bhuyan</u> and E. Elmroth. <b>Unsupervised root-cause identification of software bugs in 5G RAN</b>. In <i>IEEE 19th Annual Consumer Communications & Networking Conference (CCNC)</i>, pp. 624-630, 2022, doi: 10.1109/CCNC49033.2022.9700501.",
+                "how_to_cite": "T. Sundqvist, M. Bhuyan and E. Elmroth. Unsupervised root-cause identification of software bugs in 5G RAN. In IEEE 19th Annual Consumer Communications & Networking Conference (CCNC), pp. 624-630, 2022, doi: 10.1109/CCNC49033.2022.9700501.",
+                "citation": "@inproceedings{sundqvist2022unsupervised,<br>  title={Unsupervised root-cause identification of software bugs in 5G RAN},<br>  author={Sundqvist, Tobias and Bhuyan, Monowar and Elmroth, Erik},<br>  booktitle={2022 IEEE 19th Annual Consumer Communications \\& Networking Conference (CCNC)},<br>  pages={624--630},<br>  year={2022},<br>  organization={IEEE}<br>}<br>"
+            },
+            {
+                "title": "T. Sundqvist, <u>M. Bhuyan</u> and E. Elmroth. <b>Uncovering latency anomalies in 5G RAN - A combination learner approach</b>. In <i>14th International Conference on COMmunication Systems & NETworkS (COMSNETS)</i>, pp. 621-629, 2022, doi: 10.1109/COMSNETS53615.2022.9668431.",
+                "how_to_cite": "T. Sundqvist, M. Bhuyan and E. Elmroth. Uncovering latency anomalies in 5G RAN - A combination learner approach. In 14th International Conference on COMmunication Systems & NETworkS (COMSNETS), pp. 621-629, 2022, doi: 10.1109/COMSNETS53615.2022.9668431.",
+                "citation": "@inproceedings{sundqvist2022uncovering,<br>  title={Uncovering latency anomalies in 5G RAN-A combination learner approach},<br>  author={Sundqvist, Tobias and Bhuyan, Monowar and Elmroth, Erik},<br>  booktitle={2022 14th International Conference on COMmunication Systems \\& NETworkS (COMSNETS)},<br>  pages={621--629},<br>  year={2022},<br>  organization={IEEE}<br>}"
+            }
+        ]
+    },
+    {
         "2021": [
             {
                 "title": "S. Banerjee, E. Elmroth, <u>M. Bhuyan</u>. <b>Fed-FiS: a Novel Information-Theoretic Federated Feature Selection for Learning Stability</b>. In <i>28th International Conference on Neural Information Processing (ICONIP)</i>, pp. 480-487, 2021, Springer.",
                 "how_to_cite": "S. Banerjee, E. Elmroth, M. Bhuyan. Fed-FiS: a Novel Information-Theoretic Federated Feature Selection for Learning Stability. In 28th International Conference on Neural Information Processing (ICONIP), pp. 480-487, 2021, Springer.",
                 "citation": "@inproceedings{banerjee2021fed,<br>  title={Fed-FiS: A novel information-theoretic federated feature selection for learning stability},<br>  author={Banerjee, Sourasekhar and Elmroth, Erik and Bhuyan, Monowar},<br>  booktitle={International Conference on Neural Information Processing},<br>  pages={480--487},<br>  year={2021},<br>  organization={Springer}<br>}"
+            },
+            {
+                "title": "A. Hatefi, X-S. Vu, <u>M. Bhuyan</u>, and F. Drewes. <b>Cformer: Semi-Supervised Text Clustering Based on Pseudo Labeling</b>. In <i>30th ACM International Conference on Information & Knowledge Management (CIKM)</i>, pp. 3078–3082, 2021, ACM.",
+                "how_to_cite": "A. Hatefi, X-S. Vu, M. Bhuyan, and F. Drewes. Cformer: Semi-Supervised Text Clustering Based on Pseudo Labeling. In 30th ACM International Conference on Information & Knowledge Management (CIKM), pp. 3078–3082, 2021, ACM.",
+                "citation": "@inproceedings{hatefi2021cformer,<br>  title={Cformer: Semi-supervised text clustering based on pseudo labeling},<br>  author={Hatefi, Arezoo and Vu, Xuan-Son and Bhuyan, Monowar and Drewes, Frank},<br>  booktitle={Proceedings of the 30th ACM International Conference on Information \\& Knowledge Management},<br>  pages={3078--3082},<br>  year={2021}<br>}<br>"
+            },
+            {
+                "title": "C. S. M. Babou, D. Fall, S. Kashihara, Y. Taenaka, <u>M. Bhuyan</u>, I. Niang, I. Diané, Y. Kadobayashi. <b>D-LBAH: Dynamic Load Balancing Algorithm for HEC-SDN systems</b>. In <i>8th International Conference on Future Internet of Things and Cloud (FiCloud), pp. 304-310, 2021,</i> doi: 10.1109/FiCloud49777.2021.00051.",
+                "how_to_cite": "C. S. M. Babou, D. Fall, S. Kashihara, Y. Taenaka, M. Bhuyan, I. Niang, I. Diané, Y. Kadobayashi. D-LBAH: Dynamic Load Balancing Algorithm for HEC-SDN systems. In 8th International Conference on Future Internet of Things and Cloud (FiCloud), pp. 304-310, 2021, doi: 10.1109/FiCloud49777.2021.00051.",
+                "citation": "@inproceedings{babou2021d,<br>  title={D-LBAH: Dynamic Load Balancing Algorithm for HEC-SDN systems},<br>  author={Babou, Cheikh Saliou Mbacke and Fall, Doudou and Kashihara, Shigeru and Taenaka, Yuzo and Bhuyan, Monowar H and Niang, Ibrahima and Dian{\\'e}, Ibrahima and Kadobayashi, Youki},<br>  booktitle={2021 8th International Conference on Future Internet of Things and Cloud (FiCloud)},<br>  pages={304--310},<br>  year={2021},<br>  organization={IEEE}<br>}<br>"
+            },
+            {
+                "title": "J. Forough, <u>M. Bhuyan</u>, E. Elmroth. <b>Detection of VSI-DDoS Attacks on the Edge: A Sequential Modeling Approach</b>. In <i>16th International Conference on Availability, Reliability and Security</i>, August 17--20, PP. 1-10, Tu Wien, Vienna, Austria, 2021.",
+                "how_to_cite": "J. Forough, M. Bhuyan, E. Elmroth. Detection of VSI-DDoS Attacks on the Edge: A Sequential Modeling Approach. In 16th International Conference on Availability, Reliability and Security, August 17--20, PP. 1-10, Tu Wien, Vienna, Austria, 2021.",
+                "citation": "@inproceedings{forough2021detection,<br>  title={Detection of VSI-DDoS attacks on the edge: A sequential modeling approach},<br>  author={Forough, Javad and Bhuyan, Monowar and Elmroth, Erik},<br>  booktitle={Proceedings of the 16th International Conference on Availability, Reliability and Security},<br>  pages={1--10},<br>  year={2021}<br>}<br>"
+            },
+            {
+                "title": "E. Tsogbaatar, <u>M. Bhuyan</u>, Y. Taenaka, D. Fall, K. Gonchigsumlaa, E. Elmroth and Y. Kadobayashi. <b>A 1D-CNN Based Deep Learning for Detecting VSI-DDoS Attacks in IoT Applications</b>. in <i>The 34th International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems (IEA/AIE), July 26-29, pp. 530-543, Kuala Lumpur, Malaysia, 2021</i>, Springer.",
+                "how_to_cite": "E. Tsogbaatar, M. Bhuyan, Y. Taenaka, D. Fall, K. Gonchigsumlaa, E. Elmroth and Y. Kadobayashi. A 1D-CNN Based Deep Learning for Detecting VSI-DDoS Attacks in IoT Applications. in The 34th International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems (IEA/AIE), July 26-29, pp. 530-543, Kuala Lumpur, Malaysia, 2021, Springer.",
+                "citation": "@inproceedings{tsogbaatar20211d,<br>  title={A 1D-CNN based deep learning for detecting VSI-DDoS attacks in IoT applications},<br>  author={Tsogbaatar, Enkhtur and Bhuyan, Monowar H and Fall, Doudou and Taenaka, Yuzo and Gonchigsumlaa, Khishigjargal and Elmroth, Erik and Kadobayashi, Youki},<br>  booktitle={Advances and Trends in Artificial Intelligence. Artificial Intelligence Practices: 34th International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems, IEA/AIE 2021, Kuala Lumpur, Malaysia, July 26--29, 2021, Proceedings, Part I 34},<br>  pages={530--543},<br>  year={2021},<br>  organization={Springer}<br>}<br>"
+            },
+            {
+                "title": "E. Tsogbaatar, <u>M. Bhuyan</u>, Y. Taenaka, D. Fall, K. Gonchigsumlaa, E. Elmroth and Y. Kadobayashi. <b>DeL-IoT: A Deep Ensemble Learning Approach to Uncover Anomalies in IoT</b>. in <i>Internet of Things Journal</i>, Vol. 14, pp. 100391, 2021, Elsevier.",
+                "how_to_cite": "E. Tsogbaatar, M. Bhuyan, Y. Taenaka, D. Fall, K. Gonchigsumlaa, E. Elmroth and Y. Kadobayashi. DeL-IoT: A Deep Ensemble Learning Approach to Uncover Anomalies in IoT. in Internet of Things Journal, Vol. 14, pp. 100391, 2021, Elsevier.",
+                "citation": "@article{tsogbaatar2021iot,<br>  title={DeL-IoT: A deep ensemble learning approach to uncover anomalies in IoT},<br>  author={Tsogbaatar, Enkhtur and Bhuyan, Monowar H and Taenaka, Yuzo and Fall, Doudou and Gonchigsumlaa, Khishigjargal and Elmroth, Erik and Kadobayashi, Youki},<br>  journal={Internet of Things},<br>  volume={14},<br>  pages={100391},<br>  year={2021},<br>  publisher={Elsevier}<br>}"
             }
-        ]  
+        ]
     },
     {
         "2020": [
@@ -19,18 +152,133 @@
                 "title": "A. Agarwal, A. S. Chivukula, <u>M. Bhuyan</u>, T. Jan, B. Narayan, and M. Prasad. <b>Identification and Classification of Cyberbullying Posts: A Recurrent Neural Network Approach using Under-sampling and Class Weighting</b>. In <i> The 27th International Conference on Neural Information Processing (ICONIP)</i>, 18-22 November, pp. 113-120, 2020, Thailand, Springer.",
                 "how_to_cite": "A. Agarwal, A. S. Chivukula, M. Bhuyan, T. Jan, B. Narayan, and M. Prasad. Identification and Classification of Cyberbullying Posts: A Recurrent Neural Network Approach using Under-sampling and Class Weighting. In The 27th International Conference on Neural Information Processing (ICONIP), 18-22 November, pp. 113-120, 2020, Thailand, Springer.",
                 "citation": "@inproceedings{agarwal2020identification,<br>  title={Identification and classification of cyberbullying posts: A recurrent neural network approach using under-sampling and class weighting},<br>  author={Agarwal, Ayush and Chivukula, Aneesh Sreevallabh and Bhuyan, Monowar H and Jan, Tony and Narayan, Bhuva and Prasad, Mukesh},<br>  booktitle={Neural Information Processing: 27th International Conference, ICONIP 2020, Bangkok, Thailand, November 18--22, 2020, Proceedings, Part V 27},<br>  pages={113--120},<br>  year={2020},<br>  organization={Springer}<br>}"
+            },
+            {
+                "title": "C. S. M. Babou, D. Fall, S. Kashihara, Y. Taenaka, <u>M. Bhuyan</u>, I. Niang, and Y. Kadobayashi. <b>Hierarchical Load Balancing and Clustering Technique for Home Edge Computing</b>. <i>IEEE Access</i>, vol. 8, pp. 127593-127607, 2020, doi: 10.1109/ACCESS.2020.3007944, USA.",
+                "how_to_cite": "C. S. M. Babou, D. Fall, S. Kashihara, Y. Taenaka, M. Bhuyan, I. Niang, and Y. Kadobayashi. Hierarchical Load Balancing and Clustering Technique for Home Edge Computing. IEEE Access, vol. 8, pp. 127593-127607, 2020, doi: 10.1109/ACCESS.2020.3007944, USA.",
+                "citation": "@article{babou2020hierarchical,<br>  title={Hierarchical load balancing and clustering technique for home edge computing},<br>  author={Babou, Cheikh Saliou Mbacke and Fall, Doudou and Kashihara, Shigeru and Taenaka, Yuzo and Bhuyan, Monowar H and Niang, Ibrahima and Kadobayashi, Youki},<br>  journal={IEEE Access},<br>  volume={8},<br>  pages={127593--127607},<br>  year={2020},<br>  publisher={IEEE}<br>}<br>"
+            },
+            {
+                "title": "A. Alnefaie, D. Gupta, <u>M. Bhuyan</u>, I. Razzak, P. Gupta, M. Prasad. <b>End-to-End Analysis for Text Detection and Recognition in Natural Scene Images</b>. In <i>the 2020 International Joint Conference on Neural Networks (IJCNN)</i>, 19 - 24th July, pp. 1-8, doi: 10.1109/IJCNN48605.2020.9207001, 2020, Glasgow, UK 2020. ",
+                "how_to_cite": "A. Alnefaie, D. Gupta, M. Bhuyan, I. Razzak, P. Gupta, M. Prasad. End-to-End Analysis for Text Detection and Recognition in Natural Scene Images. In the 2020 International Joint Conference on Neural Networks (IJCNN), 19 - 24th July, pp. 1-8, doi: 10.1109/IJCNN48605.2020.9207001, 2020, Glasgow, UK 2020.",
+                "citation": "@inproceedings{alnefaie2020end,<br>  title={End-to-end analysis for text detection and recognition in natural scene images},<br>  author={Alnefaie, Ahlam and Gupta, Deepak and Bhuyan, Monowar H and Razzak, Imran and Gupta, Prashant and Prasad, Mukesh},<br>  booktitle={2020 International Joint Conference on Neural Networks (IJCNN)},<br>  pages={1--8},<br>  year={2020},<br>  organization={IEEE}<br>}<br>"
+            },
+            {
+                "title": "E. Tsogbaatar, <u>M. Bhuyan</u>, Y. Taenaka, D. Fall, K. Gonchigsumlaa, E. Elmroth and Y. Kadobayashi. <b>SDN-enabled IoT Anomaly Detection using Ensemble Learning</b>. In <i>the AIAI 2020 16th International Conference on Artificial Intelligence Applications and Innovations</i>, pp. 268-280, 5-7 June, 2020, Halkidiki, Greece, Springer.",
+                "how_to_cite": "E. Tsogbaatar, M. Bhuyan, Y. Taenaka, D. Fall, K. Gonchigsumlaa, E. Elmroth and Y. Kadobayashi. SDN-enabled IoT Anomaly Detection using Ensemble Learning. In the AIAI 2020 16th International Conference on Artificial Intelligence Applications and Innovations, pp. 268-280, 5-7 June, 2020, Halkidiki, Greece, Springer.",
+                "citation": "@inproceedings{tsogbaatar2020sdn,<br>  title={SDN-enabled IoT anomaly detection using ensemble learning},<br>  author={Tsogbaatar, Enkhtur and Bhuyan, Monowar H and Taenaka, Yuzo and Fall, Doudou and Gonchigsumlaa, Khishigjargal and Elmroth, Erik and Kadobayashi, Youki},<br>  booktitle={Artificial Intelligence Applications and Innovations: 16th IFIP WG 12.5 International Conference, AIAI 2020, Neos Marmaras, Greece, June 5--7, 2020, Proceedings, Part II 16},<br>  pages={268--280},<br>  year={2020},<br>  organization={Springer}<br>}<br>"
+            },
+            {
+                "title": "T. Sundqvist, <u>M. Bhuyan</u>, J. Forsman and E. Elmroth. <b>Boosted Ensemble Learning for Anomaly Detection in 5G RAN</b>. In <i>the AIAI 2020 16th International Conference on Artificial Intelligence Applications and Innovations</i>, pp. 15-30, 5-7 June, 2020, Halkidiki, Greece, Springer.",
+                "how_to_cite": "T. Sundqvist, M. Bhuyan, J. Forsman and E. Elmroth. Boosted Ensemble Learning for Anomaly Detection in 5G RAN. In the AIAI 2020 16th International Conference on Artificial Intelligence Applications and Innovations, pp. 15-30, 5-7 June, 2020, Halkidiki, Greece, Springer.",
+                "citation": "@inproceedings{sundqvist2020boosted,<br>  title={Boosted ensemble learning for anomaly detection in 5G RAN},<br>  author={Sundqvist, Tobias and Bhuyan, Monowar H and Forsman, Johan and Elmroth, Erik},<br>  booktitle={IFIP international conference on artificial intelligence applications and innovations},<br>  pages={15--30},<br>  year={2020},<br>  organization={Springer}<br>}"
+            }
+        ]
+    },
+    {
+        "2019": [
+            {
+                "title": "A. Kalwar, <u>M. Bhuyan</u>, D. K. Bhattacharyya, Y. Kadobayashi, and E. Elmroth, and J. K. Kalita. <b>TVis: A Light-weight Traffic Visualization System for DDoS Detection</b>. In <i>the 14th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP)</i>, Chiang Mai, Thailand, 2019, pp. 1-6, doi: 10.1109/iSAI-NLP48611.2019.9068666.",
+                "how_to_cite": "A. Kalwar, M. Bhuyan, D. K. Bhattacharyya, Y. Kadobayashi, and E. Elmroth, and J. K. Kalita. TVis: A Light-weight Traffic Visualization System for DDoS Detection. In the 14th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP), Chiang Mai, Thailand, 2019, pp. 1-6, doi: 10.1109/iSAI-NLP48611.2019.9068666.",
+                "citation": "@inproceedings{kalwar2019tvis,<br>  title={TVis: A Light-weight Traffic Visualization System for DDoS Detection},<br>  author={Kalwar, Abhishek and Bhuyan, Monowar H and Bhattacharyya, Dhruba K and Kadobayashi, Youki and Elmroth, Erik and Kalita, Jugal K},<br>  booktitle={2019 14th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP)},<br>  pages={1--6},<br>  year={2019},<br>  organization={IEEE}<br>}<br>"
+            },
+            {
+                "title": "P. K. Deka, <u>M. Bhuyan</u>, Y. Kadobayashi and E. Elmroth. <b>Adversarial Impact on Anomaly Detection in Cloud Datacenters</b> In <i>the 24th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC)</i>, Kyoto, Japan, 2019, pp. 188-18809, doi: 10.1109/PRDC47002.2019.00049.",
+                "how_to_cite": "P. K. Deka, M. Bhuyan, Y. Kadobayashi and E. Elmroth. Adversarial Impact on Anomaly Detection in Cloud Datacenters In the 24th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC), Kyoto, Japan, 2019, pp. 188-18809, doi: 10.1109/PRDC47002.2019.00049.",
+                "citation": "@inproceedings{deka2019adversarial,<br>  title={Adversarial impact on anomaly detection in cloud datacenters},<br>  author={Deka, Pratyush Kr and Bhuyan, Monowar H and Kadobayashi, Youki and Elmroth, Erik},<br>  booktitle={2019 IEEE 24th Pacific Rim International Symposium on Dependable Computing (PRDC)},<br>  pages={188--18809},<br>  year={2019},<br>  organization={IEEE}<br>}<br>"
+            },
+            {
+                "title": "<u>M. Bhuyan</u>, M. Ma, Y. Kadobayashi, and E. Elmroth. <b>Information-theoretic Ensemble Learning for DDoS Detection with Adaptive Boosting</b>. In <i>the 31st IEEE International Conference on Tools with Artificial Intelligence (ICTAI)</i>, Portland, OR, USA, 2019, pp. 995-1002, doi: 10.1109/ICTAI.2019.00140.",
+                "how_to_cite": "M. Bhuyan, M. Ma, Y. Kadobayashi, and E. Elmroth. Information-theoretic Ensemble Learning for DDoS Detection with Adaptive Boosting. In the 31st IEEE International Conference on Tools with Artificial Intelligence (ICTAI), Portland, OR, USA, 2019, pp. 995-1002, doi: 10.1109/ICTAI.2019.00140.",
+                "citation": "@inproceedings{bhuyan2019information,<br>  title={Information-theoretic ensemble learning for ddos detection with adaptive boosting},<br>  author={Bhuyan, Monowar H and Ma, Maode and Kadobayashi, Youki and Elmroth, Erik},<br>  booktitle={2019 IEEE 31st International Conference on Tools with Artificial Intelligence (ICTAI)},<br>  pages={995--1002},<br>  year={2019},<br>  organization={IEEE}<br>}<br>"
+            },
+            {
+                "title": "R. Sarmah, Manasjyoti Bhuyan, and <u>M. Bhuyan</u>. <b>SURE-H: A Secure IoT Enabled Smart Home System</b>. In <i>the IEEE 5th World Forum on Internet of Things (WF-IoT)</i>, pp. 59-63, 15-18 Apr 2019, DOI: 10.1109/WF-IoT.2019.8767229, Limerick, Ireland",
+                "how_to_cite": "R. Sarmah, Manasjyoti Bhuyan, and M. Bhuyan. SURE-H: A Secure IoT Enabled Smart Home System. In the IEEE 5th World Forum on Internet of Things (WF-IoT), pp. 59-63, 15-18 Apr 2019, DOI: 10.1109/WF-IoT.2019.8767229, Limerick, Ireland",
+                "citation": "@inproceedings{sarmah2019sure,<br>  title={SURE-H: a secure IoT enabled smart home system},<br>  author={Sarmah, Roshmi and Bhuyan, Manasjyoti and Bhuyan, Monowar H},<br>  booktitle={2019 IEEE 5th World Forum on Internet of Things (WF-IoT)},<br>  pages={59--63},<br>  year={2019},<br>  organization={IEEE}<br>}"
+            }
+        ]
+    },
+    {
+        "2018": [
+            {
+                "title":"<u>M. Bhuyan</u> and E. Elmroth. <b>Multi-Scale Low-Rate DDoS Attack Detection Using the Generalized Total Variation Metric</b>. In <i>the 17th IEEE International Conference on Machine Learning and Applications (ICMLA)</i>, December 17-20, pp. 1040-1047, DOI: 10.1109/ICMLA.2018.00170, 2018, Orlando, Florida, USA",
+                "how_to_cite": "M. Bhuyan and E. Elmroth. Multi-Scale Low-Rate DDoS Attack Detection Using the Generalized Total Variation Metric. In the 17th IEEE International Conference on Machine Learning and Applications (ICMLA), December 17-20, pp. 1040-1047, DOI: 10.1109/ICMLA.2018.00170, 2018, Orlando, Florida, USA",
+                "citation": "@INPROCEEDINGS{Bhuyan18ICMLA,<br>AUTHOR = {Bhuyan, M H and Elmroth, E},<br>TITLE = {{Multi-Scale Low-Rate DDoS Attack Detection Using the Generalized Total Variation Metric}},<br>BOOKTITLE = {17th IEEE International Conference on Machine Learning and Applications (ICMLA)},<br>YEAR = {2018},<br>pages = {1040-1047},<br>address = {Orlando, Florida, USA},<br>month = {December 17-20},<br>DOI = {10.1109/ICMLA.2018.00170},<br>organization = {Association for Machine Learning and Applications},<br>publisher = {IEEE SMC},<br>}"
+            }
+        ]
+    },
+    {
+        "2016": [
+            {
+                "title": "<u>M. Bhuyan</u>, D. K. Bhattacharyya, and J. K. Kalita. <b>E-LDAT: A Lightweight System for DDoS Flooding Attack Detection and IP Traceback Using Extended Entropy Metric</b> In <i>Security and Communication Networks</i>, DOI: 10.1002/sec.1530, 2016, John Wiley & Sons",
+                "how_to_cite": "M. Bhuyan, D. K. Bhattacharyya, and J. K. Kalita. E-LDAT: A Lightweight System for DDoS Flooding Attack Detection and IP Traceback Using Extended Entropy Metric In Security and Communication Networks, DOI: 10.1002/sec.1530, 2016, John Wiley & Sons",
+                "citation": "@ARTICLE{BhuyanJ13,<br>AUTHOR = {Bhuyan, M H and Bhattacharyya, D K and Kalita, J K},<br>TITLE = {{E-LDAT: A Lightweight System for DDoS Flooding Attack Detection and IP Traceback Using Extended Entropy Metric}},<br>JOURNAL = {Security and Communication Networks},<br>YEAR = {2016},<br>volume = {9},<br>Number = {16},<br>pages = {3251--3270},<br>DOI = {10.1002/sec.1530},<br>Publisher = {John Wiley \\& Sons}<br>}<br>"
+            },
+            {
+                "title": "<u>M. Bhuyan</u>, D. K. Bhattacharyya, and J. K. Kalita. <b>A Multi-step Outlier-based Anomaly Detection Approach to Network-wide Traffic</b> In <i>Information Sciences</i>, vol. 348, pp. 243-271, June 20, 2016, Elsevier",
+                "how_to_cite": "M. Bhuyan, D. K. Bhattacharyya, and J. K. Kalita. A Multi-step Outlier-based Anomaly Detection Approach to Network-wide Traffic In Information Sciences, vol. 348, pp. 243-271, June 20, 2016, Elsevier",
+                "citation": "@ARTICLE{BhuyanJ12,<br>AUTHOR = {Bhuyan, M H and Bhattacharyya, D K and Kalita, J K},<br>TITLE = {{A Multi-step Outlier-based Anomaly Detection Approach to Network-wide Traffic}},<br>JOURNAL = {Information Sciences},<br>YEAR = {2016},<br>volume = {348},<br>pages = {243--271},<br>DOI = {10.1016/j.ins.2016.02.023},<br>Publisher = {Elsevier}<br>}<br>"
+            },
+            {
+                "title": "A. Ain, <u>M. Bhuyan</u>, D. K. Bhattacharyya, and J. K. Kalita. <b>Rank Correlation for Low-Rate DDoS Attack Detection: An Empirical Evaluation</b>. In <i>International Journal of Network Security</i>, vol. 18, no. 3, pp. 474-480, May 2016, Taiwan",
+                "how_to_cite": "A. Ain, M. Bhuyan, D. K. Bhattacharyya, and J. K. Kalita. Rank Correlation for Low-Rate DDoS Attack Detection: An Empirical Evaluation. In International Journal of Network Security, vol. 18, no. 3, pp. 474-480, May 2016, Taiwan",
+                "citation": "@ARTICLE{Ain2016ijns,<br>AUTHOR = {Ain, A and Bhuyan, M H and Bhattacharyya, D K and Kalita, J K},<br>TITLE = {{Rank Correlation for Low-Rate DDoS Attack Detection: An Empirical Evaluation}},<br>JOURNAL = {International Journal of Network Security},<br>YEAR = {2016},<br>volume = {18},<br>number = {3},<br>pages = {474--480},<br>month = {May},<br>Publisher = {Femto Technology, Taiwan}<br>}<br>"
+            },
+            {
+                "title": "S. Choudhury, A. Kalwar, A. Goswami and <u>M. Bhuyan</u>. <b>BRC-KEP: A Secure Biometric and Reversible CA Based 2-Party Key Exchange Protocol</b>. In <i>the 9th International Conference on Contemporary Computing (IC3)</i>, August 11-13, pp. 1-6, DOI: 10.1109/IC3.2016.7880203, 2016, Noida, India.",
+                "how_to_cite": "S. Choudhury, A. Kalwar, A. Goswami and M. Bhuyan. BRC-KEP: A Secure Biometric and Reversible CA Based 2-Party Key Exchange Protocol. In the 9th International Conference on Contemporary Computing (IC3), August 11-13, pp. 1-6, DOI: 10.1109/IC3.2016.7880203, 2016, Noida, India.",
+                "citation": "@INPROCEEDINGS{Choudhury16IC3,<br>AUTHOR = {Choudhury, S and Kalwar, A and Goswami, A and Bhuyan, M H},<br>TITLE = {{BRC-KEP: A Secure Biometric and Reversible CA Based 2-Party Key Exchange Protocol}},<br>BOOKTITLE = {Proceedings of the 9th International Conference on Contemporary Computing},<br>YEAR = {2016},<br>pages = {1-6},<br>address = {Noida, India},<br>month = {August 11-13},<br>DOI = {10.1109/IC3.2016.7880203},<br>organization = {JIIT University},<br>publisher = {IEEE Computer Society},<br>}<br>"
             }
         ]
     },
     {
         "2015": [
             {
-                "title":"<u>M. Bhuyan</u>, D. K. Bhattacharyya, and J. K. Kalita. <b>An Empirical Evaluation of Information Metrics for Low-rate and High-rate DDoS Attack Detection</b>. In <i>Pattern Recognition Letters</i>, vol. 51, pp. 1-7, DOI: 10.1016/j.patrec.2014.07.019, 2015, Elsevier.",
-                "how_to_cite":"N. Hoque, M. Bhuyan, R. C. Baishya, D. K. Bhattacharyya, and J. K. Kalita. Network Attacks: Taxonomy, Tools and Systems. In Journal of Network and Computer Applications, vol. 40, pp. 307-324, DOI: 10.1016/j.jnca.2013.08.001, April 2014, Elsevier.",
-                "citation":"@ARTICLE{BhuyanJ11,<br>AUTHOR = {Bhuyan, M H and Bhattacharyya, D K and Kalita, J K},<br>TITLE = {{An Empirical Evaluation of Information Metrics for Low-rate and High-rate DDoS Attack Detection}},<br>JOURNAL = {Pattern Recognition Letters},<br>YEAR = {2015},<br>volume = {51},<br>pages = {1--7},<br>DOI = {10.1016/j.patrec.2014.07.019},<br>Publisher = {Elsevier}<br>}"
+                "title": "<u>M. Bhuyan</u>, D. K. Bhattacharyya, and J. K. Kalita. <b>An Empirical Evaluation of Information Metrics for Low-rate and High-rate DDoS Attack Detection</b>. In <i>Pattern Recognition Letters</i>, vol. 51, pp. 1-7, DOI: 10.1016/j.patrec.2014.07.019, 2015, Elsevier.",
+                "how_to_cite": "M. Bhuyan, D. K. Bhattacharyya, and J. K. Kalita. An Empirical Evaluation of Information Metrics for Low-rate and High-rate DDoS Attack Detection. In Pattern Recognition Letters, vol. 51, pp. 1-7, DOI: 10.1016/j.patrec.2014.07.019, 2015, Elsevier.",
+                "citation": "@ARTICLE{BhuyanJ11,<br>AUTHOR = {Bhuyan, M H and Bhattacharyya, D K and Kalita, J K},<br>TITLE = {{An Empirical Evaluation of Information Metrics for Low-rate and High-rate DDoS Attack Detection}},<br>JOURNAL = {Pattern Recognition Letters},<br>YEAR = {2015},<br>volume = {51},<br>pages = {1--7},<br>DOI = {10.1016/j.patrec.2014.07.019},<br>Publisher = {Elsevier}<br>}"
+            },
+            {
+                "title": "<u>M. Bhuyan</u>, D. K. Bhattacharyya, and J. K. Kalita. <b>Towards Generating Real-life Datasets for Network Intrusion Detection</b>. In <i>International Journal of Network Security</i>, vol. 17, no. 6, pp. 675-693, 2015, Taiwan",
+                "how_to_cite": "M. Bhuyan, D. K. Bhattacharyya, and J. K. Kalita. Towards Generating Real-life Datasets for Network Intrusion Detection. In International Journal of Network Security, vol. 17, no. 6, pp. 675-693, 2015, Taiwan",
+                "citation": "@ARTICLE{BhuyanJ10,<br>AUTHOR = {Bhuyan, M H and Bhattacharyya, D K and Kalita, J K},<br>TITLE = {{Towards Generating Real-life Datasets for Network Intrusion Detection}},<br>JOURNAL = {International Journal of Network Security},<br>YEAR = {2015},<br>volume = {17},<br>Number = {6},<br>pages = {675--693},<br>Publisher = {Femto Technology, Taiwan}<br>}<br>"
+            },
+            {
+                "title": "<u>M. Bhuyan</u>, A. Kalwar, A. Goswami, D. K. Bhattacharyya, and J. K. Kalita. <b>Low-rate and High-rate Distributed Attack Detection Using Partial Rank Correlation</b>. In <i>The 5th IEEE International Conference on Communication System and Network Technologies (CSNT)</i>, April 4-6, pp. 706-710, 2015, Guwalior, India, IEEE Computer Society.",
+                "how_to_cite": "M. Bhuyan, A. Kalwar, A. Goswami, D. K. Bhattacharyya, and J. K. Kalita. Low-rate and High-rate Distributed Attack Detection Using Partial Rank Correlation. In The 5th IEEE International Conference on Communication System and Network Technologies (CSNT), April 4-6, pp. 706-710, 2015, Guwalior, India, IEEE Computer Society.",
+                "citation": "@INPROCEEDINGS{Bhuyan15IC01,<br>AUTHOR = {Bhuyan, M H and Kalwar, A and Goswami, A and Bhattacharyya, D K and Kalita, J K},<br>TITLE = {{Low-rate and High-rate Distributed Attack Detection Using Partial Rank Correlation}},<br>BOOKTITLE = {{Proceedings of the 5th IEEE International Conference on Communication System and Network Technologies}},<br>YEAR = {2015},<br>pages = {706--710},<br>address = {Guwalior, India},<br>month = {April 4-6},<br>publisher = {IEEE Computer Society},<br>}"
             }
         ]
-
+    },
+    {
+        "2014": [
+            {
+                "title": "N. Hoque, <u>M. Bhuyan</u>, R. C. Baishya, D. K. Bhattacharyya, and J. K. Kalita. <b>Network Attacks: Taxonomy, Tools and Systems</b>. In <i>Journal of Network and Computer Applications</i>, vol. 40, pp. 307-324, DOI: 10.1016/j.jnca.2013.08.001, April 2014, Elsevier.",
+                "how_to_cite": "N. Hoque, M. Bhuyan, R. C. Baishya, D. K. Bhattacharyya, and J. K. Kalita. Network Attacks: Taxonomy, Tools and Systems. In Journal of Network and Computer Applications, vol. 40, pp. 307-324, DOI: 10.1016/j.jnca.2013.08.001, April 2014, Elsevier.",
+                "citation": "@ARTICLE{Hoque14jnca,<br>AUTHOR = {Hoque, N and Bhuyan, M H and Baishya, R C and Bhattacharyya, D K and Kalita, J K},<br>TITLE = {{Network Attacks: Taxonomy, Tools and Systems}},<br>JOURNAL = {Journal of Network and Computer Applications},<br>YEAR = {2014},<br>volume = {40},<br>pages = {307--324},<br>Month = {April},<br>DOI = {10.1016/j.jnca.2013.08.001},<br>Publisher = {Elsevier}<br>}<br>"
+            },
+            {
+                "title": "<u>M. Bhuyan</u>, D. K. Bhattacharyya, and J. K. Kalita. <b>Towards an Unsupervised Method for Network Anomaly Detection in Large Datasets</b>. In <i>Journal of Computing and Informatics</i>, vol. 33, no. 1, pp. 1-34, 2014.", 
+                "how_to_cite": "M. Bhuyan, D. K. Bhattacharyya, and J. K. Kalita. Towards an Unsupervised Method for Network Anomaly Detection in Large Datasets. In Journal of Computing and Informatics, vol. 33, no. 1, pp. 1-34, 2014.",
+                "citation": "@ARTICLE{BhuyanJ09,<br>AUTHOR = {Bhuyan, M H and Bhattacharyya, D K and Kalita, J K},<br>TITLE = {{Towards an Unsupervised Method for Network Anomaly Detection in Large Datasets}},<br>JOURNAL = {Journal of Computing and Informatics},<br>volume = {33},<br>Number = {1},<br>pages = {1--34},<br>YEAR = {2014}<br>}<br>"
+            },
+            {
+                "title": "<u>M. Bhuyan</u>, H. Kashyap, D. K. Bhattacharyya, and J. K. Kalita. <b>Distributed Denial of Service Attack Detection : Methods, Tools and Future Directions</b>. In <i>The Computer Journal, Oxford University Press</i>, vol. 57, no. 4, pp. 537-556, DOI: 10.1093/comjnl/bxt031, 2014, UK.",
+                "how_to_cite": "M. Bhuyan, H. Kashyap, D. K. Bhattacharyya, and J. K. Kalita. Distributed Denial of Service Attack Detection : Methods, Tools and Future Directions. In The Computer Journal, Oxford University Press, vol. 57, no. 4, pp. 537-556, DOI: 10.1093/comjnl/bxt031, 2014, UK.",
+                "citation": "@ARTICLE{BhuyanJ08,<br>AUTHOR = {Bhuyan, M H and Kashyap, H and Bhattacharyya, D K and Kalita, J K},<br>TITLE = {{Distributed Denial of Service Attack Detection : Methods, Tools and Future Directions}},<br>JOURNAL = {The Computer Journal},<br>YEAR = {2014},<br>volume = {57},<br>Number = {4},<br>pages = {537--556},<br>DOI = {10.1093/comjnl/bxt031},<br>Publisher = {Oxford University Press, British Computer Society, UK}<br>}<br>"
+            },
+            {
+                "title": "<u>M. Bhuyan</u>, D. K. Bhattacharyya, and J. K. Kalita. <b>Network Anomaly Detection : Methods, Systems and Tools</b>. In <i>IEEE Communication Surveys and Tutorials</i>, vol. 16, no. 1, pp. 303-336, First Quarter 2014, DOI: 10.1109/SURV.2013.052213.00046, US.A", 
+                "how_to_cite": "M. Bhuyan, D. K. Bhattacharyya, and J. K. Kalita. Network Anomaly Detection : Methods, Systems and Tools. In IEEE Communication Surveys and Tutorials, vol. 16, no. 1, pp. 303-336, First Quarter 2014, DOI: 10.1109/SURV.2013.052213.00046, US.A",
+                "citation": "@ARTICLE{BhuyanJ07,<br>AUTHOR = {Bhuyan, M H and Bhattacharyya, D K and Kalita, J K},<br>TITLE = {{Network Anomaly Detection : Methods, Systems and Tools}},<br>JOURNAL = {IEEE Communication Surveys and Tutorials},<br>YEAR = {2014},<br>volume = {16},<br>Number = {1},<br>pages = {303--336},<br>DOI = {10.1109/SURV.2013.052213.00046},<br>Publisher = {IEEE Communication Society}<br>}<br>"
+            },
+            {
+                "title": "<u>M. Bhuyan</u>, D. K. Bhattacharyya, and J. K. Kalita. <b>Information Metric Based Low-rate DDoS attack Detection: A Comparative Evaluation</b>. In <i>the 7th International Conference on Contemporary Computing (IC3)</i>, August 7-9, pp. 80-84, 2014, DOI: 10.1109/IC3.2014.6897151, IEEE, Noida, India.",
+                "how_to_cite": "M. Bhuyan, D. K. Bhattacharyya, and J. K. Kalita. Information Metric Based Low-rate DDoS attack Detection: A Comparative Evaluation. In the 7th International Conference on Contemporary Computing (IC3), August 7-9, pp. 80-84, 2014, DOI: 10.1109/IC3.2014.6897151, IEEE, Noida, India.",
+                "citation": "@INPROCEEDINGS{Bhuyan14IC02,<br>AUTHOR = {Bhuyan, M H and Bhattacharyya, D K and Kalita, J K},<br>TITLE = {{Information Metric Based Low-rate DDoS attack Detection: A Comparative Evaluation}},<br>BOOKTITLE = {{Proceedings of the 7th International Conference on Contemporary Computing}},<br>YEAR = {2014},<br>pages = {80--84},<br>address = {Noida, India},<br>month = {August 7-9},<br>publisher = {IEEE Computer Society},<br>}"
+            }
+        ]
     },
     {
         "2013": [
